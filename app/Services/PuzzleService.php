@@ -10,7 +10,6 @@ use App\Repositories\Contracts\PuzzleRepositoryInterface;
 
 use Illuminate\Support\Facades\Http;
 
-
 class PuzzleService
 {
     protected $repo;
